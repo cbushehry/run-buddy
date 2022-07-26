@@ -1,16 +1,16 @@
-# Run Buddy Website
+# RUN BUDDY
 
 ## 1. Description
 Website for Run Buddy. This application helps customers connect with fitness trainers
 
-### Website
-https://cbushehry.github.io/run-buddy/
+DEPLOYMENT: https://cbushehry.github.io/run-buddy/
 
 ## 2. Technologies
 * HTML
 * CSS
 
-## 3. Credits
+## 3. Credits / Contact Info
 This application was made by Cameron Bushehry
+©️2020 Run Buddy, Inc
 
-contact me: c.bushehry@gmail.com
+Email: c.bushehry@gmail.com
