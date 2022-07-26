@@ -11,6 +11,7 @@ DEPLOYMENT: https://cbushehry.github.io/run-buddy/
 
 ## 3. Credits / Contact Info
 This application was made by Cameron Bushehry
+
 ©️2020 Run Buddy, Inc
 
 Email: c.bushehry@gmail.com
