@@ -15,7 +15,7 @@ DEPLOYMENT:
 * Meet the Trainers
 * Contact Information and Address
 <br></br>
- ![run-buddy-homepage image](./images/run-buddy.jpg)
+ ![run-buddy-homepage image](./images/run-buddy.png)
 
 ## 4. Credits / Contact Info
 This application was made by Cameron Bushehry
