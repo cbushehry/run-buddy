@@ -18,6 +18,14 @@ header {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-image: url("../images/hero-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-position: 80%;
 }
 
 header h1 {
@@ -25,6 +33,7 @@ header h1 {
   margin: 0;
   font-size: 36px;
   color: #fce138;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 header a {
@@ -44,10 +53,11 @@ header nav ul {
   list-style: none;
 }
 
-header nav ul li a {
+header nav ul li a:hover {
   padding: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 /* HEADER / NAVBAR STYLES END */
@@ -93,6 +103,8 @@ section {
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
+  background-attachment: fixed;
+  background-position: 80%;
 }
 
 .hero-cta {
@@ -108,15 +120,18 @@ section {
   font-style: italic;
   font-size: 55px;
   color: #fce138;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-.hero-form {
+.hero-form:hover {
   border: 3px solid #024e76;
   background-color: #fce138;
   padding: 20px;
   color: #024e76;
   width: 40%;
   margin: 3.5%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
 }
 
 .hero-form h3 {
@@ -127,14 +142,17 @@ section {
   margin: 5px 0 15px 0;
 }
 
-.form-input {
+.form-input:focus {
   border: 1px solid #024e76;
   display: block;
   padding: 7px 15px;
   font-size: 16px;
   color: #024e76;
   width: 100%;
-  margin-bottom: 15px; 
+  margin-bottom: 15px;
+  border-radius: 10px;
+  background-color: rgba(255,255,255, 1);
+  outline: none;
 }
 
 .hero-form label {
@@ -147,6 +165,7 @@ section {
   border: none;
   padding: 10px 20px;
   font-size: 16px;
+  border-radius: 10px;
 } 
 /* HERO STYLES END */
 
@@ -328,9 +347,10 @@ section {
   width: 100%;
   margin-bottom: 15px;
   margin-top: 5px;
+  border-radius: 10px;
 }
 
-.contact-form button {
+.contact-form button:hover {
   width: 100%;
   border: none;
   background: #fce138;
@@ -338,6 +358,7 @@ section {
   text-align: center;
   padding: 15px 0;
   font-size: 16px;
+  border-radius: 10px;
 }
 
 .contact-info a {
