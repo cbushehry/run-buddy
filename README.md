@@ -2,7 +2,7 @@
 
 This is a fake website that offers fitness training services.
 
-## Installation
+## Website
 https://cbushehry.github.io/run-buddy/
 
 ## Features
