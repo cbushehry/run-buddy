@@ -1,16 +1,19 @@
 # Run Buddy, Inc
 
-## Purpose
-A website that offers fitness training services. 
+This is a fake website that offers fitness training services.
 
-## Built With
-* HTML
-* CSS
-
-## Website
+## Installation
 https://cbushehry.github.io/run-buddy/
 
-## Contribution
-Made with ❤️ by Cameron Bushehry
+## Features
+ - Get Started Form
+ - Meet the Trainers
+ - Contact the Trainers
+
+## Credits / Contact
+This application was made by Cameron Bushehry
+
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cbushehry)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.bushehry@gmail.com)
 
 ### ©️2019 Run Buddy, Inc 
