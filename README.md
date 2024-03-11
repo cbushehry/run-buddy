@@ -2,7 +2,7 @@
 
 This is a fake website that offers fitness training services.
 
-<img src="assets/images/run-buddy.jpg" width="34%" height="auto"/>
+<img src="assets/images/run-buddy.png" width="34%" height="auto"/>
 
 ## Deployment
 https://cbushehry.github.io/run-buddy/
